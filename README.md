@@ -25,8 +25,8 @@
 </p>
 
 [![Tomcat][dependencies_ts]][dependencies_ts-url]
-[![Forks][dependencies_jdk]][dependencies_jdk-url]
-[![Stargazers][dependencies_ecl]][dependencies_ecl-url]
+[![Oracle JDK][dependencies_jdk]][dependencies_jdk-url]
+[![Eclipse][dependencies_ecl]][dependencies_ecl-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -254,10 +254,10 @@ Project Link: [Java Servlet](https://github.com/shahkv95/JavaServlet)
 [dependencies_ts-url]: https://tomcat.apache.org/download-90.cgi
 
 [dependencies_jdk]: https://img.shields.io/badge/Oracle%20JDK-SE%208-orange
-[dependencies_jdk-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[dependencies_jdk-url]: https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
 
 [dependencies_ecl]: https://img.shields.io/badge/Eclipse-2020--09-brightgreen
-[dependencies_ecl-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[dependencies_ecl-url]: https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers
 
 [license-shield]: https://img.shields.io/badge/license-MIT-ff69b4
 [license-url]: https://raw.githubusercontent.com/shahkv95/JavaServlet/main/LICENSE
