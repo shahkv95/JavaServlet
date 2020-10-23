@@ -104,28 +104,35 @@ This is an example of how to list things you need to use the software and how to
 ```
 
 * Oracle Java Development Kit
-```sh
-1. Go to https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
-2. Download the latest stable version of Oracle JDK. For this project, I have used Oracle JDK 8(jdk-8u271-windows-x64.exe). Before downloading you have to first create your account on the site and then click on the favorable installer
-3. On downloading the installer, extract if_ a zip file is downloaded
-4. Double click on the installer and install the jdk-8u261-windows-x64 jdk8
-5. Accept the required permission(after you agree to them by going through the terms and conditions) and finish the process to successfully install the IDE
 
-```
+> 1. Go to https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+> 2. Download the latest stable version of Oracle JDK. For this project, I have used Oracle JDK 8(jdk-8u271-windows-x64.exe). Before downloading you have to first create your account on the site and then click on the favorable installer
+> 3. On downloading the installer, extract if_ a zip file is downloaded
+> 4. Double click on the installer and install the jdk-8u261-windows-x64 jdk8
+> 5. Accept the required permission(after you agree to them by going through the terms and conditions) and finish the process to successfully install the IDE
+
 
 
 ### Locally running the Project
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
+#### Brief introduction of the process
+* Create a Dynamic web project
+* Create a servlet
+* Add servlet-api.jar file
+* Run the servlet
+
+#### Detailed steps to follow
+1. Creating a Dynamic web project
+```md
+1.1 Open Eclipse
+1.2 File --> New --> Dynamic Web Project
+1.3 Enter project_name --> Chose target runtime(Apache Tomcat v9.0 or the version you installed) --> Next --> Next 
+1.4 Check the checkbox of Generate web.xml deployment descriptor --> Finish
+1.5 You will see the message - "Installing Dynamic Web Module Facet..." 
+1.6 On completion you can see your project folder created under the "Project Explorer" view frame.
 ```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
+
+2. Creating a servlet in Eclipse
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
