@@ -8,7 +8,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<h1 align="center">Creating basic Servlet in Eclipse</h1>
+<h1 align="center">Creating Java Servlet in Eclipse</h1>
 
 
 <br />
@@ -20,7 +20,7 @@
   
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A program to understand how Java Servlet works! 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
