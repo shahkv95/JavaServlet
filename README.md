@@ -24,22 +24,24 @@
   </p>
 </p>
 
-
+[![Tomcat][dependencies_ts]][dependencies_ts-url]
+[![Forks][dependencies_jdk]][dependencies_jdk-url]
+[![Stargazers][dependencies_ecl]][dependencies_ecl-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
+* [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
@@ -67,15 +69,9 @@ This project was built using the following tools/frameworks:
 * [Oracle Java Development Kit](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
 
 
+### Getting Started
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Pre-requisites
-
-This is an example of how to list things you need to use the software and how to install them.
+To run the project successfully, you need to download and install the three tools/frameworks mentioned before. For ease of access, follow the below steps to complete the process easily.
 * Apache Tomcat
 
 > 1. Go to [Apache Tomcat](http://tomcat.apache.org/)
@@ -215,19 +211,12 @@ public class Hello extends HttpServlet {
 > 7. Your complete project would be ready to be deployed on the server.
 > 8. Right click on the project and follow the above step #6
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/shahkv95/JavaServlet/issues) for a list of proposed features (and known issues).
 
 
 
@@ -261,22 +250,18 @@ Project Link: [Java Servlet](https://github.com/shahkv95/JavaServlet)
 
 
 
+[dependencies_ts]: https://img.shields.io/badge/TomcatServer-v9.0-blue
+[dependencies_ts-url]: https://tomcat.apache.org/download-90.cgi
 
+[dependencies_jdk]: https://img.shields.io/badge/Oracle%20JDK-SE%208-orange
+[dependencies_jdk-url]: https://github.com/othneildrew/Best-README-Template/network/members
 
+[dependencies_ecl]: https://img.shields.io/badge/Eclipse-2020--09-brightgreen
+[dependencies_ecl-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 
+[license-shield]: https://img.shields.io/badge/license-MIT-ff69b4
+[license-url]: https://raw.githubusercontent.com/shahkv95/JavaServlet/main/LICENSE
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kush-shah-5a771b169/
 [product-screenshot]: images/click.png
