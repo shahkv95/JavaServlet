@@ -80,16 +80,24 @@ This project was built using the following tools/frameworks:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Apache Tomcat
 ```sh
-npm install npm@latest -g
+http://tomcat.apache.org/
 ```
+* Eclipse IDE
+```sh
+https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers
+```
+* Oracle Java Development Kit
+```sh
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+```
+
 
 ### Installation
 
