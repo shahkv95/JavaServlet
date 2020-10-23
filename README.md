@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/click.png" width="80" height="80">
+    <img src="images/eclipse.png" width="80" height="80">
   </a>
 
   
