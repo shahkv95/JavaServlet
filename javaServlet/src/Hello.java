@@ -15,11 +15,11 @@ public class Hello extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		response.setContentType("text/html");
-		PrintWriter out=response.getWriter();
+		PrintWriter output=response.getWriter();
 		
-		out.print("<html><body>");
-		out.print("<h3>This line will get printed when the file is run on the server(Tomcat server v9.0, in this case)</h3>");
-		out.print("</body></html>");
+		output.print("<html><body>");
+		output.print("<h3>This line will get printed when the file is run on the server(Tomcat server v9.0, in this case)</h3>");
+		output.print("</body></html>");
 	}
 
 }
