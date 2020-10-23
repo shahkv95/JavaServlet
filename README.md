@@ -86,22 +86,22 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * Apache Tomcat
-```sh
-1. Go to http://tomcat.apache.org/
-2. Download the latest stable version of Apache Tomcat Server. For this project, I have used Tomcat 9.0(https://tomcat.apache.org/download-90.cgi)
-3. When you are on this page - (https://tomcat.apache.org/download-90.cgi), download "apache-tomcat-9.0.39-windows-x64" by clicking on the option "64-bit Windows zip (pgp, sha512)"
-4. Extract the files/ folders present in_ the downloaded files
-5. Open the extracted folder(apache-tomcat-9.0.39). Go to bin and install the tomcat9 application
-```
+
+> 1. Go to http://tomcat.apache.org/
+> 2. Download the latest stable version of Apache Tomcat Server. For this project, I have used Tomcat 9.0(https://tomcat.apache.org/download-90.cgi)
+> 3. When you are on this page - (https://tomcat.apache.org/download-90.cgi), download "apache-tomcat-9.0.39-windows-x64" by clicking on the option "64-bit Windows zip (pgp, sha512)"
+> 4. Extract the files/ folders present in_ the downloaded files
+> 5. Open the extracted folder(apache-tomcat-9.0.39). Go to bin and install the tomcat9 application
+
 
 * Eclipse IDE
-```sh
-1. Go to https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers
-2. Download the latest stable version of Eclipse IDE. For this project, I have used Eclipse Installer 2020-09 R(https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-09/R/eclipse-inst-jre-win64.exe)
-3. On downloading the installer, extract if_ a zip file is downloaded
-4. Double click on the installer and install the Eclipse IDE for_ Enterprise Java Developers
-5. Accept the required permission(after you agree to them by going through the terms and conditions) and finish the process to successfully install the IDE
-```
+
+> 1. Go to https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-developers
+> 2. Download the latest stable version of Eclipse IDE. For this project, I have used Eclipse Installer 2020-09 R(https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-09/R/eclipse-inst-jre-win64.exe)
+> 3. On downloading the installer, extract if_ a zip file is downloaded
+> 4. Double click on the installer and install the Eclipse IDE for_ Enterprise Java Developers
+> 5. Accept the required permission(after you agree to them by going through the terms and conditions) and finish the process to successfully install the IDE
+
 
 * Oracle Java Development Kit
 
