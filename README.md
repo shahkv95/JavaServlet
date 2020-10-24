@@ -276,7 +276,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Kush Shah])(https://www.linkedin.com/in/kush-shah-5a771b169/) - [Kaggle_Profile](https://www.kaggle.com/kushshah95) - [email](kushlinkedin@gmail.com)  
+[Kush Shah](https://www.linkedin.com/in/kush-shah-5a771b169/) - [Kaggle_Profile](https://www.kaggle.com/kushshah95) - [email](kushlinkedin@gmail.com)  
 
 Project Link: [Java Servlet](https://github.com/shahkv95/JavaServlet)
 
