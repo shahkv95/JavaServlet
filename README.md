@@ -51,16 +51,20 @@
 
 <img src="images/click.png" >
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The servlets provide an object-based, independent, web-based application building platform, without the limitations of CGI programs. Servlets have access to the entire Java APIs family, including the JDBC API to access business information. This project is mainly focused to understand how to use Java resources to improve our web-based applications in simple and easy steps.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Applications of this project with certain extensions:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+* Read clear data sent to clients (browsers). This includes data that can come from HTTP client system or an applet or the HTML form on a Web page.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+* Read the requested HTTP request data sent to clients (browsers). This includes cookies, media types and so on.
+
+* Process data and create results. This process may require database communication, making an RMI, installing a Web service, or entering a direct response to a computer.
+
+* Send explicit data (e.g., documents) to customers (browsers). This text can be exported in a variety of ways, including text (HTML or XML), binary (GIF images), Excel, etc.
+
+* Send anonymous HTTP response to customers (browsers). This includes telling browsers or other clients what type of document is being returned (e.g., HTML), setting cookies and cache restrictions, and other such functions.
+
 
 ### Built With
 This project was built using the following tools/frameworks:
