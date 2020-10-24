@@ -125,6 +125,9 @@ To run the project successfully, you need to download and install the three tool
 1.5 You will see the message - "Installing Dynamic Web Module Facet..." 
 1.6 On completion you can see your project folder created under the "Project Explorer" view frame.
 ```
+![](https://media.giphy.com/media/vLnDNFD50jeoecXt3g/giphy.gif)
+
+
 
 2. Creating a servlet in Eclipse
 ```md
