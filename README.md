@@ -130,7 +130,7 @@ To run the project successfully, you need to download and install the three tool
 ```md
 2.1 Right click on the project name
 2.2 Click on New --> Servlet
-2.3 Enter the class name(say <b>Hello</b>) --> Next --> Next
+2.3 Enter the class name(say "MyServlet") --> Next --> Next
 2.4 Uncheck the methods that are not required and check the method names that you require in your project/java file --> Finish
 2.5 <b>Hello.java</b> file will be created with the basic template. Now you can write your own code here. 
 ```
@@ -276,7 +276,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kush Shah - [Kaggle_Profile](https://www.kaggle.com/kushshah95) - [email](kushlinkedin@gmail.com)  
+[Kush Shah])(https://www.linkedin.com/in/kush-shah-5a771b169/) - [Kaggle_Profile](https://www.kaggle.com/kushshah95) - [email](kushlinkedin@gmail.com)  
 
 Project Link: [Java Servlet](https://github.com/shahkv95/JavaServlet)
 
