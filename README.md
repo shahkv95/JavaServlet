@@ -137,6 +137,7 @@ To run the project successfully, you need to download and install the three tool
 2.4 Uncheck the methods that are not required and check the method names that you require in your project/java file --> Finish
 2.5 "MyServlet.java" file will be created with the basic template. Now you can write your own code here. 
 ```
+![](https://github.com/shahkv95/JavaServlet/blob/main/images/CreatingServlet.gif)
 
 3. Adding servlet-api.jar file
 ```md
@@ -146,6 +147,8 @@ To run the project successfully, you need to download and install the three tool
 3.4 Browse and open the Tomcat folder that you downloaded --> lib folder --> select servlet-api.jar file --> Open --> Apply and Close
 3.5 The required servlet api file would be added 
 ```
+![](https://github.com/shahkv95/JavaServlet/blob/main/images/ServletApi.gif)
+
 
 4. Writing the servlet code in Eclipse
 ```md
@@ -221,6 +224,7 @@ public class MyServlet extends HttpServlet {
 5.4 Click on Add All --> Finish
 5.5 The required server is configured and ready to host a program 
 ```
+![](https://github.com/shahkv95/JavaServlet/blob/main/images/ConfigureServlet.gif)
 
 
 6. Running the servlet
@@ -233,6 +237,7 @@ public class MyServlet extends HttpServlet {
 6.6 To solve this issue, typw the name of the file after the '/'. So at the end it will look like --> <b>http://localhost:8080/understanding/file_name</b>
 6.7 Press Enter and you will be able to see the desired output...!
 ```
+![](https://github.com/shahkv95/JavaServlet/blob/main/images/RunningOnServer.gif)
 
 
 ### Directly running this project
