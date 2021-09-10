@@ -8,7 +8,6 @@
     <img src="images/eclipse.png">
   </a>
 
-  
 
   <p align="center">
     A program to understand how Java Servlet works! 
